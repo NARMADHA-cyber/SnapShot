@@ -1,0 +1,22 @@
+.card{
+    display: flex;
+    flex-wrap: wrap;
+}
+.inner-card{
+  padding: 12px 12px;
+   max-width: 1250px;
+   gap: 8px;
+
+}
+
+.button{
+    color: beige;
+    background-color: black;
+   padding: 12px;
+     
+}
+
+
+
+
+
